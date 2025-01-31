@@ -1,8 +1,9 @@
 const { readFileSync, writeFileSync } = require('fs');
 const express = require('express');
 const app = express();
+const counter = document.getElementById("szamlalo");
 
-app.get('/', (req, res) => {
+app.get('/', (req, res, counter) => {
     // Read the count from the file
     let countText;
     try {
@@ -14,6 +15,7 @@ app.get('/', (req, res) => {
 
     const count = parseInt(countText);
     console.log('Current count:', count);
+    counter.innerHtml = `$(newCount)`
 
     const newCount = count + 1;
 
