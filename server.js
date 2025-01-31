@@ -2,18 +2,19 @@ const { readFileSync, writeFileSync } = require('fs');
 const express = require('express');
 const app = express();
 const counter = document.getElementById("szamlalo");
+const count = parseInt(countText);
 
 app.get('/', (req, res, counter) => {
     // Read the count from the file
     let countText;
     try {
         countText = readFileSync('./count.txt', 'utf-8');
+        counter.innerText = count;
     } catch (error) {
         // If the file doesn't exist or can't be read, default to 0
         countText = '0';
     }
 
-    const count = parseInt(countText);
     console.log('Current count:', count);
     counter.innerHtml = `$(newCount)`
 
