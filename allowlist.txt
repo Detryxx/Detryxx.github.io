@@ -8,3 +8,5 @@
 ! Compiled by none
 !
 ||web.facebook.com^
+||b-graph.facebook.com^
+||graph.facebook.com^
