@@ -1,0 +1,10 @@
+!
+! Title: Detryx's Allowlist
+! Description: Things that are blocked by some filters but actually prevent day-to-day usage of some things in my case.
+! Version: 0.0.0.1
+! Homepage: https://github.com/Detryxx/Detryxx.github.io/tree/main
+! Last modified: 1746729067
+!
+! Compiled by none
+!
+||web.facebook.com^
