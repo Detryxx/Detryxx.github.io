@@ -1,12 +1,15 @@
 !
 ! Title: Detryx's Allowlist
 ! Description: Things that are blocked by some filters but actually prevent day-to-day usage of some things in my case.
-! Version: 0.0.0.2
+! Version: 0.0.0.3
 ! Homepage: https://github.com/Detryxx/Detryxx.github.io/tree/main
-! Last modified: 1746729308
+! Last modified: 1746729446
 !
 ! Compiled by none
 !
 ||web.facebook.com^
 ||b-graph.facebook.com^
 ||graph.facebook.com^
+||graph-fallback.facebook.com^
+||b-graph-fallback.facebook.com^
+||graph.fbpigeon.com^
