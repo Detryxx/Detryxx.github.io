@@ -3,7 +3,7 @@
 ! Description: Things that are blocked by some filters but actually prevent day-to-day usage of some things in my case.
 ! Version: 0.0.0.3
 ! Homepage: https://github.com/Detryxx/Detryxx.github.io/tree/main
-! Last modified: 1746729446
+! Last modified: 1747492699
 !
 ! Compiled by none
 !
