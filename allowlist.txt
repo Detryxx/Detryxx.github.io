@@ -1,9 +1,9 @@
 !
 ! Title: Detryx's Allowlist
 ! Description: Things that are blocked by some filters but actually prevent day-to-day usage of some things in my case.
-! Version: 0.0.0.5
+! Version: 0.0.0.6
 ! Homepage: https://github.com/Detryxx/Detryxx.github.io/tree/main
-! Last modified: 1747658161
+! Last modified: 1747658308
 !
 ! Compiled by none
 !
@@ -15,3 +15,4 @@
 ||graph.fbpigeon.com^
 ||www.1377x.to^
 ||tracking.epicgames.com^
+||sentry.io^
