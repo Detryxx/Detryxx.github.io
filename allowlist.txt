@@ -1,9 +1,9 @@
 !
 ! Title: Detryx's Allowlist
 ! Description: Things that are blocked by some filters but actually prevent day-to-day usage of some things in my case.
-! Version: 0.0.0.9
+! Version: 0.0.0.10
 ! Homepage: https://github.com/Detryxx/Detryxx.github.io/tree/main
-! Last modified: 1754840307
+! Last modified: 1756665610
 !
 ! Compiled by none
 !
@@ -16,3 +16,4 @@
 ||www.1377x.to^
 ||ctrk.klclick.com^
 ||adfoc.us^
+||gateway.instagram.com^
